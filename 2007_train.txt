@@ -1,0 +1,4 @@
+e:\dl_pkg\faster-rcnn_study/VOCdevkit/VOC2007/JPEGImages/000001.jpg 208,50,273,151,0
+e:\dl_pkg\faster-rcnn_study/VOCdevkit/VOC2007/JPEGImages/000002.jpg 212,150,264,169,0
+e:\dl_pkg\faster-rcnn_study/VOCdevkit/VOC2007/JPEGImages/000003.jpg 79,175,123,262,0
+e:\dl_pkg\faster-rcnn_study/VOCdevkit/VOC2007/JPEGImages/000004.jpg 164,132,226,150,0

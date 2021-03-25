@@ -1,0 +1,1 @@
+e:\dl_pkg\faster-rcnn_study/VOCdevkit/VOC2007/JPEGImages/000005.jpg 167,166,231,204,0
